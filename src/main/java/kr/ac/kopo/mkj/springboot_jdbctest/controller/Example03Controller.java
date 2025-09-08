@@ -1,7 +1,7 @@
 package kr.ac.kopo.mkj.springboot_jdbctest.controller;
 
-import kr.ac.kopo.minn.springboot_jdbctest.domain.Member;
-import kr.ac.kopo.minn.springboot_jdbctest.repository.MemberRepository03;
+import kr.ac.kopo.mkj.springboot_jdbctest.domain.Member;
+import kr.ac.kopo.mkj.springboot_jdbctest.repository.MemberRepository03;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
